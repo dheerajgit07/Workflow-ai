@@ -48,27 +48,27 @@
         }
       ],
       "createdAt": "2026-06-28T09:48:51.088Z",
-      "updatedAt": "2026-06-28T10:46:14.124Z"
+      "updatedAt": "2026-07-03T07:55:09.723Z"
     },
     {
       "id": "ticket-2",
       "name": "Billing gateway timeout during checkout",
-      "status": "In Progress",
+      "status": "Done",
       "owner": "Priya Patel",
       "date": "2026-06-30",
-      "group": "active",
+      "group": "done",
       "description": "Stripe webhook payloads are failing to acknowledge within the designated 3000ms server threshold.",
       "logs": [],
       "createdAt": "2026-06-28T09:48:51.088Z",
-      "updatedAt": "2026-06-28T10:44:38.008Z"
+      "updatedAt": "2026-07-08T07:24:12.247Z"
     },
     {
       "id": "ticket-3",
       "name": "Setup webhook documentation for API v2",
-      "status": "In Progress",
+      "status": "Done",
       "owner": "Rahul Verma",
       "date": "2026-06-25",
-      "group": "active",
+      "group": "done",
       "description": "Comprehensive engineering handbook for setting up custom consumer webhooks payload schemas.",
       "logs": [
         {
@@ -78,16 +78,16 @@
         }
       ],
       "createdAt": "2026-06-28T09:48:51.089Z",
-      "updatedAt": "2026-06-28T10:44:32.347Z"
+      "updatedAt": "2026-06-28T12:52:42.534Z"
     }
   ],
   "workflows": [
     {
       "id": "wf-1",
       "name": "OAuth Gateway Modernization",
-      "status": "Review",
-      "assignee": "Rahul Verma",
-      "progress": 42,
+      "status": "Completed",
+      "assignee": "Priya Patel",
+      "progress": 19,
       "timeline": "2026-07-15",
       "analytics": {
         "views": 124,
@@ -2016,11 +2016,1607 @@
           "user": "Aman Sharma",
           "time": "Just Now",
           "createdAt": "2026-06-28T10:45:52.470Z"
+        },
+        {
+          "id": "1782714518045",
+          "action": "Progress updated to 44%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.045Z"
+        },
+        {
+          "id": "1782714518110",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.110Z"
+        },
+        {
+          "id": "1782714518190",
+          "action": "Progress updated to 45%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.190Z"
+        },
+        {
+          "id": "1782714518251",
+          "action": "Progress updated to 54%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.251Z"
+        },
+        {
+          "id": "1782714518275",
+          "action": "Progress updated to 45%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.275Z"
+        },
+        {
+          "id": "1782714518495",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.495Z"
+        },
+        {
+          "id": "1782714518695",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.695Z"
+        },
+        {
+          "id": "1782714518735",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.735Z"
+        },
+        {
+          "id": "1782714518832",
+          "action": "Progress updated to 46%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.832Z"
+        },
+        {
+          "id": "1782714518882",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.882Z"
+        },
+        {
+          "id": "1782714518946",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:38.946Z"
+        },
+        {
+          "id": "1782714519054",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.054Z"
+        },
+        {
+          "id": "1782714519155",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.155Z"
+        },
+        {
+          "id": "1782714519199",
+          "action": "Progress updated to 47%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.199Z"
+        },
+        {
+          "id": "1782714519223",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.223Z"
+        },
+        {
+          "id": "1782714519316",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.316Z"
+        },
+        {
+          "id": "1782714519351",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.351Z"
+        },
+        {
+          "id": "1782714519474",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.474Z"
+        },
+        {
+          "id": "1782714519525",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.525Z"
+        },
+        {
+          "id": "1782714519574",
+          "action": "Progress updated to 48%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.574Z"
+        },
+        {
+          "id": "1782714519633",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.633Z"
+        },
+        {
+          "id": "1782714519680",
+          "action": "Progress updated to 49%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.680Z"
+        },
+        {
+          "id": "1782714519719",
+          "action": "Progress updated to 50%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.719Z"
+        },
+        {
+          "id": "1782714519794",
+          "action": "Progress updated to 51%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.794Z"
+        },
+        {
+          "id": "1782714519854",
+          "action": "Progress updated to 52%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.854Z"
+        },
+        {
+          "id": "1782714519924",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.925Z"
+        },
+        {
+          "id": "1782714519972",
+          "action": "Progress updated to 53%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:39.972Z"
+        },
+        {
+          "id": "1782714520043",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.043Z"
+        },
+        {
+          "id": "1782714520111",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.111Z"
+        },
+        {
+          "id": "1782714520173",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.173Z"
+        },
+        {
+          "id": "1782714520197",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.197Z"
+        },
+        {
+          "id": "1782714520225",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.225Z"
+        },
+        {
+          "id": "1782714520292",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.292Z"
+        },
+        {
+          "id": "1782714520323",
+          "action": "Progress updated to 54%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.323Z"
+        },
+        {
+          "id": "1782714520387",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.387Z"
+        },
+        {
+          "id": "1782714520570",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.570Z"
+        },
+        {
+          "id": "1782714520603",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.603Z"
+        },
+        {
+          "id": "1782714520675",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.675Z"
+        },
+        {
+          "id": "1782714520763",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.763Z"
+        },
+        {
+          "id": "1782714520824",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.824Z"
+        },
+        {
+          "id": "1782714520862",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:40.862Z"
+        },
+        {
+          "id": "1782714521023",
+          "action": "Progress updated to 55%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.023Z"
+        },
+        {
+          "id": "1782714521056",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.056Z"
+        },
+        {
+          "id": "1782714521081",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.081Z"
+        },
+        {
+          "id": "1782714521155",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.155Z"
+        },
+        {
+          "id": "1782714521205",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.205Z"
+        },
+        {
+          "id": "1782714521233",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.233Z"
+        },
+        {
+          "id": "1782714521283",
+          "action": "Progress updated to 56%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.283Z"
+        },
+        {
+          "id": "1782714521330",
+          "action": "Progress updated to 44%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.330Z"
+        },
+        {
+          "id": "1782714521415",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.415Z"
+        },
+        {
+          "id": "1782714521510",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.510Z"
+        },
+        {
+          "id": "1782714521543",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.543Z"
+        },
+        {
+          "id": "1782714521591",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.591Z"
+        },
+        {
+          "id": "1782714521865",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.865Z"
+        },
+        {
+          "id": "1782714521904",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.904Z"
+        },
+        {
+          "id": "1782714521934",
+          "action": "Progress updated to 45%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.934Z"
+        },
+        {
+          "id": "1782714521961",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.961Z"
+        },
+        {
+          "id": "1782714521992",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:41.992Z"
+        },
+        {
+          "id": "1782714522097",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.097Z"
+        },
+        {
+          "id": "1782714522279",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.279Z"
+        },
+        {
+          "id": "1782714522373",
+          "action": "Progress updated to 46%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.373Z"
+        },
+        {
+          "id": "1782714522481",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.481Z"
+        },
+        {
+          "id": "1782714522610",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.610Z"
+        },
+        {
+          "id": "1782714522674",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.674Z"
+        },
+        {
+          "id": "1782714522729",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.729Z"
+        },
+        {
+          "id": "1782714522767",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.767Z"
+        },
+        {
+          "id": "1782714522786",
+          "action": "Progress updated to 47%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.786Z"
+        },
+        {
+          "id": "1782714522804",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.804Z"
+        },
+        {
+          "id": "1782714522836",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.836Z"
+        },
+        {
+          "id": "1782714522872",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.872Z"
+        },
+        {
+          "id": "1782714522962",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:42.962Z"
+        },
+        {
+          "id": "1782714523009",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.009Z"
+        },
+        {
+          "id": "1782714523048",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.048Z"
+        },
+        {
+          "id": "1782714523088",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.088Z"
+        },
+        {
+          "id": "1782714523113",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.113Z"
+        },
+        {
+          "id": "1782714523166",
+          "action": "Progress updated to 48%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.166Z"
+        },
+        {
+          "id": "1782714523214",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.214Z"
+        },
+        {
+          "id": "1782714523242",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.242Z"
+        },
+        {
+          "id": "1782714523285",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.285Z"
+        },
+        {
+          "id": "1782714523346",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.346Z"
+        },
+        {
+          "id": "1782714523403",
+          "action": "Progress updated to 49%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.403Z"
+        },
+        {
+          "id": "1782714523458",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.458Z"
+        },
+        {
+          "id": "1782714523497",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.497Z"
+        },
+        {
+          "id": "1782714523570",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.570Z"
+        },
+        {
+          "id": "1782714523629",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.629Z"
+        },
+        {
+          "id": "1782714523688",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.688Z"
+        },
+        {
+          "id": "1782714523727",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.727Z"
+        },
+        {
+          "id": "1782714523788",
+          "action": "Progress updated to 50%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.788Z"
+        },
+        {
+          "id": "1782714523833",
+          "action": "Progress updated to 51%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.833Z"
+        },
+        {
+          "id": "1782714523875",
+          "action": "Progress updated to 52%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.875Z"
+        },
+        {
+          "id": "1782714523960",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:43.960Z"
+        },
+        {
+          "id": "1782714524065",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.065Z"
+        },
+        {
+          "id": "1782714524092",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.092Z"
+        },
+        {
+          "id": "1782714524161",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.161Z"
+        },
+        {
+          "id": "1782714524213",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.213Z"
+        },
+        {
+          "id": "1782714524238",
+          "action": "Progress updated to 53%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.238Z"
+        },
+        {
+          "id": "1782714524300",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.300Z"
+        },
+        {
+          "id": "1782714524358",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.358Z"
+        },
+        {
+          "id": "1782714524450",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.450Z"
+        },
+        {
+          "id": "1782714524511",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.511Z"
+        },
+        {
+          "id": "1782714524579",
+          "action": "Progress updated to 54%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.579Z"
+        },
+        {
+          "id": "1782714524620",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.620Z"
+        },
+        {
+          "id": "1782714524642",
+          "action": "Progress updated to 44%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.642Z"
+        },
+        {
+          "id": "1782714524708",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.708Z"
+        },
+        {
+          "id": "1782714524732",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.732Z"
+        },
+        {
+          "id": "1782714524782",
+          "action": "Progress updated to 45%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.782Z"
+        },
+        {
+          "id": "1782714524816",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.816Z"
+        },
+        {
+          "id": "1782714524860",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.860Z"
+        },
+        {
+          "id": "1782714524932",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.932Z"
+        },
+        {
+          "id": "1782714524952",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.952Z"
+        },
+        {
+          "id": "1782714524980",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:44.980Z"
+        },
+        {
+          "id": "1782714525069",
+          "action": "Progress updated to 46%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.069Z"
+        },
+        {
+          "id": "1782714525109",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.109Z"
+        },
+        {
+          "id": "1782714525150",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.150Z"
+        },
+        {
+          "id": "1782714525207",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.207Z"
+        },
+        {
+          "id": "1782714525249",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.249Z"
+        },
+        {
+          "id": "1782714525334",
+          "action": "Progress updated to 47%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.334Z"
+        },
+        {
+          "id": "1782714525367",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.367Z"
+        },
+        {
+          "id": "1782714525423",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.423Z"
+        },
+        {
+          "id": "1782714525460",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.460Z"
+        },
+        {
+          "id": "1782714525508",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.508Z"
+        },
+        {
+          "id": "1782714525550",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.550Z"
+        },
+        {
+          "id": "1782714525598",
+          "action": "Progress updated to 48%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.598Z"
+        },
+        {
+          "id": "1782714525620",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.620Z"
+        },
+        {
+          "id": "1782714525666",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.666Z"
+        },
+        {
+          "id": "1782714525714",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.714Z"
+        },
+        {
+          "id": "1782714525788",
+          "action": "Progress updated to 49%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.788Z"
+        },
+        {
+          "id": "1782714525808",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.808Z"
+        },
+        {
+          "id": "1782714525856",
+          "action": "Progress updated to 50%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.856Z"
+        },
+        {
+          "id": "1782714525940",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.940Z"
+        },
+        {
+          "id": "1782714525988",
+          "action": "Progress updated to 51%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:45.988Z"
+        },
+        {
+          "id": "1782714526120",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.120Z"
+        },
+        {
+          "id": "1782714526186",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.186Z"
+        },
+        {
+          "id": "1782714526216",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.216Z"
+        },
+        {
+          "id": "1782714526239",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.239Z"
+        },
+        {
+          "id": "1782714526291",
+          "action": "Progress updated to 53%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.291Z"
+        },
+        {
+          "id": "1782714526362",
+          "action": "Progress updated to 54%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.362Z"
+        },
+        {
+          "id": "1782714526448",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.448Z"
+        },
+        {
+          "id": "1782714526484",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-29T06:28:46.484Z"
+        },
+        {
+          "id": "1782806999119",
+          "action": "Progress updated to 59%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.119Z"
+        },
+        {
+          "id": "1782806999343",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.343Z"
+        },
+        {
+          "id": "1782806999368",
+          "action": "Progress updated to 60%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.368Z"
+        },
+        {
+          "id": "1782806999491",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.491Z"
+        },
+        {
+          "id": "1782806999516",
+          "action": "Progress updated to 61%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.516Z"
+        },
+        {
+          "id": "1782806999619",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.619Z"
+        },
+        {
+          "id": "1782806999651",
+          "action": "Progress updated to 62%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.651Z"
+        },
+        {
+          "id": "1782806999732",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.732Z"
+        },
+        {
+          "id": "1782806999778",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.778Z"
+        },
+        {
+          "id": "1782806999851",
+          "action": "Progress updated to 63%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.851Z"
+        },
+        {
+          "id": "1782806999946",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.946Z"
+        },
+        {
+          "id": "1782806999991",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:09:59.991Z"
+        },
+        {
+          "id": "1782807000066",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.066Z"
+        },
+        {
+          "id": "1782807000248",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.248Z"
+        },
+        {
+          "id": "1782807000284",
+          "action": "Progress updated to 64%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.284Z"
+        },
+        {
+          "id": "1782807000330",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.330Z"
+        },
+        {
+          "id": "1782807000381",
+          "action": "Progress updated to 65%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.381Z"
+        },
+        {
+          "id": "1782807000501",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.501Z"
+        },
+        {
+          "id": "1782807000567",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.567Z"
+        },
+        {
+          "id": "1782807000619",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.619Z"
+        },
+        {
+          "id": "1782807000699",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.699Z"
+        },
+        {
+          "id": "1782807000761",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.761Z"
+        },
+        {
+          "id": "1782807000802",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.802Z"
+        },
+        {
+          "id": "1782807000844",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.844Z"
+        },
+        {
+          "id": "1782807000929",
+          "action": "Progress updated to 66%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.929Z"
+        },
+        {
+          "id": "1782807000995",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:00.995Z"
+        },
+        {
+          "id": "1782807001124",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:01.124Z"
+        },
+        {
+          "id": "1782807001151",
+          "action": "Progress updated to 67%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-06-30T08:10:01.151Z"
+        },
+        {
+          "id": "1783052733424",
+          "action": "Progress updated to 55%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T04:25:33.424Z"
+        },
+        {
+          "id": "1783052738016",
+          "action": "Progress updated to 51%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T04:25:38.016Z"
+        },
+        {
+          "id": "1783052748653",
+          "action": "Status updated to Completed",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T04:25:48.653Z"
+        },
+        {
+          "id": "1783052752734",
+          "action": "Assignee changed to Priya Patel",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T04:25:52.734Z"
+        },
+        {
+          "id": "1783061562130",
+          "action": "Progress updated to 37%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:42.130Z"
+        },
+        {
+          "id": "1783061572591",
+          "action": "Progress updated to 50%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:52.591Z"
+        },
+        {
+          "id": "1783061572732",
+          "action": "Progress updated to 51%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:52.732Z"
+        },
+        {
+          "id": "1783061572950",
+          "action": "Progress updated to 52%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:52.950Z"
+        },
+        {
+          "id": "1783061573056",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.056Z"
+        },
+        {
+          "id": "1783061573186",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.186Z"
+        },
+        {
+          "id": "1783061573287",
+          "action": "Progress updated to 54%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.287Z"
+        },
+        {
+          "id": "1783061573392",
+          "action": "Progress updated to 52%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.392Z"
+        },
+        {
+          "id": "1783061573471",
+          "action": "Progress updated to 53%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.471Z"
+        },
+        {
+          "id": "1783061573559",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.559Z"
+        },
+        {
+          "id": "1783061573728",
+          "action": "Progress updated to 54%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.728Z"
+        },
+        {
+          "id": "1783061573870",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.870Z"
+        },
+        {
+          "id": "1783061573921",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:53.921Z"
+        },
+        {
+          "id": "1783061574039",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.039Z"
+        },
+        {
+          "id": "1783061574082",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.082Z"
+        },
+        {
+          "id": "1783061574128",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.128Z"
+        },
+        {
+          "id": "1783061574224",
+          "action": "Progress updated to 53%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.224Z"
+        },
+        {
+          "id": "1783061574413",
+          "action": "Progress updated to 51%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.413Z"
+        },
+        {
+          "id": "1783061574494",
+          "action": "Progress updated to 50%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.494Z"
+        },
+        {
+          "id": "1783061574521",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.521Z"
+        },
+        {
+          "id": "1783061574685",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.685Z"
+        },
+        {
+          "id": "1783061574928",
+          "action": "Progress updated to 49%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:54.928Z"
+        },
+        {
+          "id": "1783061575034",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.034Z"
+        },
+        {
+          "id": "1783061575307",
+          "action": "Progress updated to 48%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.307Z"
+        },
+        {
+          "id": "1783061575387",
+          "action": "Progress updated to 47%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.387Z"
+        },
+        {
+          "id": "1783061575418",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.418Z"
+        },
+        {
+          "id": "1783061575495",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.495Z"
+        },
+        {
+          "id": "1783061575533",
+          "action": "Progress updated to 45%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.533Z"
+        },
+        {
+          "id": "1783061575573",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.573Z"
+        },
+        {
+          "id": "1783061575657",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.657Z"
+        },
+        {
+          "id": "1783061575830",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.830Z"
+        },
+        {
+          "id": "1783061575896",
+          "action": "Progress updated to 44%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.896Z"
+        },
+        {
+          "id": "1783061575926",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:55.926Z"
+        },
+        {
+          "id": "1783061576018",
+          "action": "Progress updated to 43%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.018Z"
+        },
+        {
+          "id": "1783061576184",
+          "action": "Progress updated to 40%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.184Z"
+        },
+        {
+          "id": "1783061576269",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.269Z"
+        },
+        {
+          "id": "1783061576306",
+          "action": "Progress updated to 39%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.306Z"
+        },
+        {
+          "id": "1783061576337",
+          "action": "Progress updated to 37%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.337Z"
+        },
+        {
+          "id": "1783061576424",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.424Z"
+        },
+        {
+          "id": "1783061576471",
+          "action": "Progress updated to 36%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.471Z"
+        },
+        {
+          "id": "1783061576516",
+          "action": "Progress updated to 29%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.516Z"
+        },
+        {
+          "id": "1783061576590",
+          "action": "Progress updated to 27%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.590Z"
+        },
+        {
+          "id": "1783061576636",
+          "action": "Progress updated to 26%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.636Z"
+        },
+        {
+          "id": "1783061576663",
+          "action": "Progress updated to 23%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.663Z"
+        },
+        {
+          "id": "1783061576714",
+          "action": "Progress updated to 22%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.714Z"
+        },
+        {
+          "id": "1783061576769",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.769Z"
+        },
+        {
+          "id": "1783061576878",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.878Z"
+        },
+        {
+          "id": "1783061576995",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:56.995Z"
+        },
+        {
+          "id": "1783061577033",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.033Z"
+        },
+        {
+          "id": "1783061577110",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.110Z"
+        },
+        {
+          "id": "1783061577151",
+          "action": "Progress updated to 21%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.151Z"
+        },
+        {
+          "id": "1783061577203",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.203Z"
+        },
+        {
+          "id": "1783061577235",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.235Z"
+        },
+        {
+          "id": "1783061577633",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.633Z"
+        },
+        {
+          "id": "1783061577671",
+          "action": "Progress updated to 20%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.671Z"
+        },
+        {
+          "id": "1783061577836",
+          "action": "Progress updated to 19%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.836Z"
+        },
+        {
+          "id": "1783061577867",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:52:57.867Z"
         }
       ],
       "createdAt": "2026-06-28T09:48:51.089Z",
       "analytics.updates": 43,
-      "updatedAt": "2026-06-28T10:45:52.471Z",
+      "updatedAt": "2026-07-08T07:24:05.792Z",
       "analytics.views": 125
     },
     {
@@ -2028,7 +3624,7 @@
       "name": "Stripe Webhook Resiliency Flow",
       "status": "In Progress",
       "assignee": "Priya Patel",
-      "progress": 23,
+      "progress": 31,
       "timeline": "2026-07-20",
       "analytics": {
         "views": 88,
@@ -2516,11 +4112,459 @@
           "user": "Aman Sharma",
           "time": "Just Now",
           "createdAt": "2026-06-28T10:43:45.039Z"
+        },
+        {
+          "id": "1783061596648",
+          "action": "Progress updated to 44%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:16.648Z"
+        },
+        {
+          "id": "1783061604129",
+          "action": "Progress updated to 70%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:24.129Z"
+        },
+        {
+          "id": "1783061604338",
+          "action": "Progress updated to 72%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:24.339Z"
+        },
+        {
+          "id": "1783061604645",
+          "action": "Progress updated to 74%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:24.646Z"
+        },
+        {
+          "id": "1783061604711",
+          "action": "Progress updated to 80%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:24.711Z"
+        },
+        {
+          "id": "1783061604894",
+          "action": "Progress updated to 75%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:24.894Z"
+        },
+        {
+          "id": "1783061605108",
+          "action": "Progress updated to 77%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.108Z"
+        },
+        {
+          "id": "1783061605194",
+          "action": "Progress updated to 81%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.194Z"
+        },
+        {
+          "id": "1783061605364",
+          "action": "Progress updated to 82%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.364Z"
+        },
+        {
+          "id": "1783061605437",
+          "action": "Progress updated to 83%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.437Z"
+        },
+        {
+          "id": "1783061605493",
+          "action": "Progress updated to 84%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.493Z"
+        },
+        {
+          "id": "1783061605520",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.520Z"
+        },
+        {
+          "id": "1783061605620",
+          "action": "Progress updated to 85%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.620Z"
+        },
+        {
+          "id": "1783061605695",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.695Z"
+        },
+        {
+          "id": "1783061605877",
+          "action": "Progress updated to 86%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.877Z"
+        },
+        {
+          "id": "1783061605977",
+          "action": "Progress updated to 88%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:25.977Z"
+        },
+        {
+          "id": "1783061606082",
+          "action": "Progress updated to 87%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.082Z"
+        },
+        {
+          "id": "1783061606167",
+          "action": "Progress updated to 88%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.167Z"
+        },
+        {
+          "id": "1783061606209",
+          "action": "Progress updated to 89%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.209Z"
+        },
+        {
+          "id": "1783061606318",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.318Z"
+        },
+        {
+          "id": "1783061606367",
+          "action": "Progress updated to 90%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.367Z"
+        },
+        {
+          "id": "1783061606441",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.441Z"
+        },
+        {
+          "id": "1783061606486",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.486Z"
+        },
+        {
+          "id": "1783061606530",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.530Z"
+        },
+        {
+          "id": "1783061606591",
+          "action": "Progress updated to 91%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.591Z"
+        },
+        {
+          "id": "1783061606645",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.645Z"
+        },
+        {
+          "id": "1783061606693",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.693Z"
+        },
+        {
+          "id": "1783061606821",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.821Z"
+        },
+        {
+          "id": "1783061606856",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.856Z"
+        },
+        {
+          "id": "1783061606919",
+          "action": "Progress updated to 90%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:26.919Z"
+        },
+        {
+          "id": "1783061607375",
+          "action": "Progress updated to 88%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:27.375Z"
+        },
+        {
+          "id": "1783061607956",
+          "action": "Progress updated to 85%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:27.956Z"
+        },
+        {
+          "id": "1783061608017",
+          "action": "Progress updated to 82%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.017Z"
+        },
+        {
+          "id": "1783061608131",
+          "action": "Progress updated to 79%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.131Z"
+        },
+        {
+          "id": "1783061608194",
+          "action": "Progress updated to 74%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.194Z"
+        },
+        {
+          "id": "1783061608266",
+          "action": "Progress updated to 69%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.266Z"
+        },
+        {
+          "id": "1783061608319",
+          "action": "Progress updated to 65%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.320Z"
+        },
+        {
+          "id": "1783061608388",
+          "action": "Progress updated to 60%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.388Z"
+        },
+        {
+          "id": "1783061608472",
+          "action": "Progress updated to 53%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.472Z"
+        },
+        {
+          "id": "1783061608565",
+          "action": "Progress updated to 49%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.565Z"
+        },
+        {
+          "id": "1783061608609",
+          "action": "Progress updated to 47%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.609Z"
+        },
+        {
+          "id": "1783061608655",
+          "action": "Progress updated to 45%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.655Z"
+        },
+        {
+          "id": "1783061608736",
+          "action": "Progress updated to 43%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.736Z"
+        },
+        {
+          "id": "1783061608827",
+          "action": "Progress updated to 42%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.827Z"
+        },
+        {
+          "id": "1783061608953",
+          "action": "Progress updated to 41%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:28.953Z"
+        },
+        {
+          "id": "1783061609036",
+          "action": "Progress updated to 40%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.036Z"
+        },
+        {
+          "id": "1783061609092",
+          "action": "Progress updated to 39%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.092Z"
+        },
+        {
+          "id": "1783061609231",
+          "action": "Progress updated to 37%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.231Z"
+        },
+        {
+          "id": "1783061609311",
+          "action": "Progress updated to 36%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.311Z"
+        },
+        {
+          "id": "1783061609398",
+          "action": "Progress updated to 35%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.398Z"
+        },
+        {
+          "id": "1783061609440",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.440Z"
+        },
+        {
+          "id": "1783061609728",
+          "action": "Progress updated to 34%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.728Z"
+        },
+        {
+          "id": "1783061609852",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.852Z"
+        },
+        {
+          "id": "1783061609960",
+          "action": "Progress updated to 33%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:29.960Z"
+        },
+        {
+          "id": "1783061610070",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.070Z"
+        },
+        {
+          "id": "1783061610147",
+          "action": "Progress updated to 32%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.147Z"
+        },
+        {
+          "id": "1783061610222",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.222Z"
+        },
+        {
+          "id": "1783061610311",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.311Z"
+        },
+        {
+          "id": "1783061610347",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.347Z"
+        },
+        {
+          "id": "1783061610421",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.421Z"
+        },
+        {
+          "id": "1783061610451",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.451Z"
+        },
+        {
+          "id": "1783061610528",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.528Z"
+        },
+        {
+          "id": "1783061610599",
+          "action": "Parameters updated",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.599Z"
+        },
+        {
+          "id": "1783061610701",
+          "action": "Progress updated to 31%",
+          "user": "Aman Sharma",
+          "time": "Just Now",
+          "createdAt": "2026-07-03T06:53:30.701Z"
         }
       ],
       "createdAt": "2026-06-28T09:48:51.089Z",
       "analytics.views": 89,
-      "updatedAt": "2026-06-28T10:44:03.822Z",
+      "updatedAt": "2026-07-03T06:53:30.736Z",
       "analytics.updates": 20
     },
     {
@@ -3076,7 +5120,7 @@
       ],
       "createdAt": "2026-06-28T09:48:51.089Z",
       "analytics.updates": 6,
-      "updatedAt": "2026-06-28T10:46:02.368Z",
+      "updatedAt": "2026-07-03T06:53:43.548Z",
       "analytics.views": 321
     }
   ],
@@ -3084,22 +5128,22 @@
     {
       "id": "p-1",
       "name": "Security Gateways",
-      "status": "In Progress",
+      "status": "Completed",
       "budget": "$15,000",
       "timeline": "2026-08-01",
-      "progress": 50,
+      "progress": 100,
       "client": "Acme Corp",
-      "updatedAt": "2026-06-28T10:46:35.174Z"
+      "updatedAt": "2026-07-08T07:24:16.576Z"
     },
     {
       "id": "p-2",
       "name": "Merchant Integration",
-      "status": "In Progress",
+      "status": "Completed",
       "budget": "$8,500",
       "timeline": "2026-07-30",
-      "progress": 50,
+      "progress": 100,
       "client": "Globex Inc",
-      "updatedAt": "2026-06-28T10:46:38.356Z"
+      "updatedAt": "2026-07-03T07:56:01.365Z"
     },
     {
       "id": "p-3",
@@ -3129,25 +5173,25 @@
       "priority": "High",
       "assignee": "Priya Patel",
       "due": "2026-07-02",
-      "updatedAt": "2026-06-28T10:46:57.220Z"
+      "updatedAt": "2026-07-03T04:31:12.641Z"
     },
     {
       "id": "t-3",
       "title": "Validate OAuth state parameters",
-      "status": "Done",
+      "status": "Review",
       "priority": "Medium",
       "assignee": "Aman Sharma",
       "due": "2026-06-30",
-      "updatedAt": "2026-06-28T10:47:11.287Z"
+      "updatedAt": "2026-07-03T04:26:49.858Z"
     },
     {
       "id": "t-4",
       "title": "Deploy API handbook",
-      "status": "Review",
+      "status": "Done",
       "priority": "Low",
       "assignee": "Rahul Verma",
       "due": "2026-06-25",
-      "updatedAt": "2026-06-28T10:47:17.043Z"
+      "updatedAt": "2026-07-08T07:24:25.525Z"
     }
   ],
   "employees": [
